@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niranjan Pabharekar</h1>
 <h3 align="center">Frontend Developer | Angular | JavaScript | UI/UX | Bootstrap | HTML5 | CSS3</h3>
 
-<img src="https://github.com/NiranjanPAbharekar/niranjanpabharekar/blob/main/gitBanner.png" alt="Banner" width="100%" />
+<img src="https://github.com/NiranjanPAbharekar/niranjanpabharekar/blob/main/giTBanner.png" alt="Banner" width="100%" />
 
 ---
 
@@ -25,9 +25,9 @@
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin" /></a>
+<a href="https://www.linkedin.com/in/niru1996/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin" /></a>
 <a href="https://instagram.com/your-instagram" target="blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram" /></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail" /></a>
+<a href="mailto:niru95544@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail" /></a>
 </p>
 
 ---
