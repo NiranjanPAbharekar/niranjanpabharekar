@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niranjan Pabharekar</h1>
 <h3 align="center">Frontend Developer | Angular | JavaScript | UI/UX | Bootstrap | HTML5 | CSS3</h3>
 
-<img src="https://github.com/NiranjanPAbharekar/niranjanpabharekar/blob/main/gitBanner.png
-  " alt="Banner" width="100%" />
+<img src="https://github.com/NiranjanPAbharekar/niranjanpabharekar/blob/main/gitBanner.png" alt="Banner" width="100%" />
 
 ---
 
